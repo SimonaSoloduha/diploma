@@ -1,0 +1,3 @@
+# astrobox==1.4.0
+astrobox~=1.6.0
+peewee~=3.13.3
