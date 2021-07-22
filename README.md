@@ -1,4 +1,10 @@
 # diploma
+
+### ИГРА 
+### космическое сражение  
+
+![IMAGE](https://github.com/SimonaSoloduha/diploma/blob/main/image_for_readme/Снимок%20экрана%202021-07-22%20в%2016.21.57.png)
+
 ## Установка необходимого ПО
 Установка необходимых пакетов: pip install astrobox
 
